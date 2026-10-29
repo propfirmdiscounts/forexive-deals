@@ -75,4 +75,4 @@ This repository tracks all historical deals for **Forexive** published on PropFi
 
 ---
 
-Last synced: 2026-10-29T01:50:54Z (auto, hourly)
+Last synced: 2026-10-29T02:05:47Z (auto, hourly)
