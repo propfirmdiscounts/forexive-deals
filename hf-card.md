@@ -1,45 +1,66 @@
 ---
 license: other
+pretty_name: Forexive Discount Code
 configs:
 - config_name: forexive-deals
   data_files:
   - split: data
     path: datasets/forexive-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - forexive
 ---
 
-# Forexive - Discount Codes & Deal History
+# Forexive Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-14, the verified Forexive discount code is **WHCTXQHRIG** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/forexive/
+> FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.
+>
+> — Forexive, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/forexive.com)
 
-**Verified exclusive discount code:** WHCTXQHRIG (works any time; live rate always on prop firm page)
+- Code: WHCTXQHRIG
+- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-14
+- Trustpilot: 3.6/5 (112 reviews)
+- Activate: https://propfirmdiscount.com/go/forexive
+- Firm page: https://propfirmdiscount.com/prop-firm/forexive/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **WHCTXQHRIG** to get **10% off** on Forexive challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Forexive evaluation accounts.
+## Current Forexive deal: 30% Off All Evaluation Accounts
+
+- Published: 2026-10-14
+- Offer ends: Limited time
+- Offer: 30% off
+- Scope: All Challenges, All Account Sizes, Limited Time
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/
+
+## Forexive discount code FAQ
+
+**What is the Forexive discount code?**
+
+WHCTXQHRIG. It is verified by PropFirmDiscount.com and takes up to 10% off Forexive challenges and accounts.
+
+**Does the Forexive discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Forexive deal?**
+
+**30% Off All Evaluation Accounts** — published 2026-10-14. Offer ends: Limited time. The offer is 30% off.
 
 ---
 
-## Latest Deal
-
-### Forexive - 30% Off All Evaluation Accounts
-
-**Published:** 2026-10-14  
-**Offer ends:** Limited time  
-**Discount:** 30% off  
-**Scope:** All Challenges, All Account Sizes, Limited Time  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **25**
 
@@ -80,19 +101,20 @@ Total deals tracked: **25**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Forexive** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Forexive** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/forexive/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/forexive/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
