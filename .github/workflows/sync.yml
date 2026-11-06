@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: forexive
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: forexive
   DEALSTORE_ID: 218
   FIRM_NAME: Forexive
