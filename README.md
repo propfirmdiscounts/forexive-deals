@@ -1,6 +1,6 @@
 # Forexive - Discount Codes & Deal History
 
-As of 2026-10-14, the verified Forexive discount code is WHCTXQHRIG — up to 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-06, the verified Forexive discount code is WHCTXQHRIG — up to 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.
 >
@@ -9,21 +9,21 @@ As of 2026-10-14, the verified Forexive discount code is WHCTXQHRIG — up to 30
 - Code: WHCTXQHRIG
 - Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-14
+- Last deal published: 2026-11-06
 - Trustpilot: 3.7/5 (113 reviews)
 - Activate: https://propfirmdiscount.com/go/forexive
 - Firm page: https://propfirmdiscount.com/prop-firm/forexive/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Forexive deal: 30% Off All Evaluation Accounts
+## Current Forexive deal: 1-Step Access $5 Start Any Size
 
-- Published: 2026-10-14
+- Published: 2026-11-06
 - Offer ends: Limited time
-- Offer: 30% off
-- Scope: All Challenges, All Account Sizes, Limited Time
+- Offer: $5
+- Scope: 1-Step Access Accounts, 5K To 200K
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/
+- Deal page: https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/
 
 ## Forexive discount code FAQ
 
@@ -37,18 +37,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Forexive deal?**
 
-**30% Off All Evaluation Accounts** — published 2026-10-14. Offer ends: Limited time. The offer is 30% off.
+**1-Step Access $5 Start Any Size** — published 2026-11-06. Offer ends: Limited time. The offer is $5.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **25**
+Total deals tracked: **26**
 
-### 2026 (8 deals)
+### 2026 (9 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-06 | 1-Step Access $5 Start Any Size | $5 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/) |
 | 2026-10-14 | 30% Off All Evaluation Accounts | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) |
 | 2026-09-30 | 30% Off All Evaluation Challenges | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/) |
 | 2026-06-16 | 1-Step Evaluation With $10 Upfront Entry Fee And 4% Profit Target | Entry Fee | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-1-step-evaluation-10-dollar-fee/) |
