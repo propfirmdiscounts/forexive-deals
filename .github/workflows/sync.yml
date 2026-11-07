@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: forexive-discount-codes
+  HF_NAMESPACE: forexive
+  HF_REPO_NAME: forexive-deals
   FIRM_SLUG: forexive
   DEALSTORE_ID: 218
   FIRM_NAME: Forexive
