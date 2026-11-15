@@ -50,7 +50,7 @@ Total deals tracked: **26**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-11-06 | Forexive: 1-Step Access $5 Start Any Size | $5 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/) |
-| 2026-10-14 | Forexive: 30% Off All Evaluation Accounts | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) |
+| 2026-10-14 | Forexive: 30% Off All Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) |
 | 2026-09-30 | Forexive: 30% Off All Evaluation Challenges | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges/) |
 | 2026-06-16 | Forexive: 1-Step Evaluation With $10 Upfront Entry Fee And 4% Profit Target | Entry Fee | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-1-step-evaluation-10-dollar-fee/) |
 | 2026-06-07 | Forexive: 20% Off Evaluation Purchase Price | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-20-off-evaluation-cost/) |
