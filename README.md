@@ -1,6 +1,6 @@
-# Forexive - Discount Codes & Deal History
+# Forexive Discount Code & Deal History
 
-As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 10% OFF, which can be applied on the checkout page anytime. The newest is "1-Step Access $5 Start Any Size".
+As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% OFF, which can be applied on the checkout page anytime. The newest is "1-Step Access $5 Start Any Size".
 
 > FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.
 >
@@ -8,7 +8,7 @@ As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 10% O
 
 - Code: WHCTXQHRIG
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
 - Trustpilot: [3.6/5 (111 reviews)](https://www.trustpilot.com/review/forexive.com)
 - GitHub repository: [Forexive Deals Repository](https://github.com/propfirmdiscounts/forexive-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 10% O
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Forexive API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Forexive deal: 1-Step Access $5 Start Any Size
+## Latest Forexive deal: 1-Step Access $5 Start Any Size
 
 - Published: 2026-11-06
 - Offer ends: Limited time
@@ -26,7 +26,7 @@ As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 10% O
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Forexive Deal Page](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/)
 
-## Forexive discount code FAQ
+## Forexive Discount Code & Deals FAQ
 
 **What is the Forexive discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Forexive Deal History
 
 Total deals tracked: **26**
 
@@ -84,7 +84,7 @@ Total deals tracked: **26**
 
 ---
 
-## About this repository
+## About the Forexive Deals Dataset
 
 This repository mirrors every deal **Forexive** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -92,7 +92,7 @@ This repository mirrors every deal **Forexive** has published on PropFirmDiscoun
 - Prop firm profile: [Forexive Profile](https://propfirmdiscount.com/prop-firm/forexive/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/forexive-deals.json`
+## Forexive Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -124,13 +124,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
