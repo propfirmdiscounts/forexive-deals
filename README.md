@@ -1,4 +1,4 @@
-# Forexive Discount Code & Deal History
+# Forexive Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% OFF, which can be applied on the checkout page anytime. The newest is "1-Step Access $5 Start Any Size".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% O
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
 - Trustpilot: [3.7/5 (112 reviews)](https://www.trustpilot.com/review/forexive.com)
-- GitHub repository: [Forexive Deals Repository](https://github.com/propfirmdiscounts/forexive-deals)
+- GitHub repository: [Forexive Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/forexive-deals)
 - Activate: [Activate Forexive Discount Code](https://propfirmdiscount.com/go/forexive)
 - Firm page: [Forexive Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/forexive/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -26,7 +26,7 @@ As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% O
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Forexive Deal Page](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/)
 
-## Forexive Discount Code & Deals FAQ
+## Forexive Discount Code & Deals History FAQ
 
 **What is the Forexive discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Forexive Deal History
+## Forexive Deals History
 
 Total deals tracked: **26**
 
@@ -84,7 +84,7 @@ Total deals tracked: **26**
 
 ---
 
-## About the Forexive Deals Dataset
+## About the Forexive Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Forexive** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -92,7 +92,7 @@ This repository mirrors every deal **Forexive** has published on PropFirmDiscoun
 - Prop firm profile: [Forexive Profile](https://propfirmdiscount.com/prop-firm/forexive/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Forexive Deal Dataset: Field Definitions
+## Forexive Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

@@ -1,4 +1,4 @@
-# Forexive Discount Codes
+# Forexive Discount Code & Deals History
 
 This dataset tracks historical deal observations for Forexive from PropFirmDiscount.com.
 
