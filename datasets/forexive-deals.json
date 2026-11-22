@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13423,
+    "title": "New User Offer: 20% Off",
+    "offer_type": "coupon",
+    "discount_value": "20%",
+    "scope": [
+      "All 1-Step And 2-Step Challenges, New Users"
+    ],
+    "date_published": "2026-11-21",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-21",
+    "post_url": "https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/",
+    "prop_firm": "Forexive",
+    "prop_firm_slug": "forexive",
+    "standing_code": "WHCTXQHRIG",
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/forexive",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/forexive/"
+  },
+  {
     "deal_id": 13176,
     "title": "1-Step Access $5 Start Any Size",
     "offer_type": "deal",
