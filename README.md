@@ -1,6 +1,6 @@
 # Forexive Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% OFF, which can be applied on the checkout page anytime. The newest is "New User Offer: 20% Off".
+As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% OFF, which can be applied on the checkout page anytime. The newest is "$29 Challenge, Four Free Add-Ons".
 
 > FOREXIVE has developed a unique one-step and two-step evaluation program to identify talented traders. These assessments can also be tailored to accommodate various trading strategies. Upon successfully completing the evaluation, you can remotely manage a FOREXIVE account with an initial balance of up to 250,000 USD once approved.
 >
@@ -9,7 +9,7 @@ As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% O
 - Code: WHCTXQHRIG
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-21
+- Last deal published: 2026-11-24
 - Trustpilot: [3.8/5 (119 reviews)](https://www.trustpilot.com/review/forexive.com)
 - GitHub repository: [Forexive Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/forexive-deals)
 - Activate: [Activate Forexive Discount Code](https://propfirmdiscount.com/go/forexive)
@@ -17,14 +17,15 @@ As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% O
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Forexive API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Forexive deal: New User Offer: 20% Off
+## Latest Forexive deal: $29 Challenge, Four Free Add-Ons
 
-- Published: 2026-11-21
+- Published: 2026-11-24
 - Offer ends: Limited time
-- Offer: 20% off
-- Scope: All 1-Step And 2-Step Challenges, New Users
+- Offer: $29
+- Event: Black Friday
+- Scope: $5,000 Challenge
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Forexive Deal Page](https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/)
+- Deal page: [Forexive Deal Page](https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/)
 
 ## Forexive Discount Code & Deals History FAQ
 
@@ -38,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Forexive deal?**
 
-**New User Offer: 20% Off** — published 2026-11-21. Offer ends: Limited time. The offer is 20% off.
+**$29 Challenge, Four Free Add-Ons** — published 2026-11-24. Offer ends: Limited time. The offer is $29.
 
 ---
 
 ## Forexive Deals History
 
-Total deals tracked: **27**
+Total deals tracked: **28**
 
-### 2026 (10 deals)
+### 2026 (11 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-24 | Forexive: $29 Challenge, Four Free Add-Ons | $29 | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-black-friday-5000-challenge-29-free-add-ons/) |
 | 2026-11-21 | Forexive: New User Offer: 20% Off | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-new-user-offer-20-off-1-step-2-step/) |
 | 2026-11-06 | Forexive: 1-Step Access $5 Start Any Size | $5 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-1-step-access-5-dollar-start/) |
 | 2026-10-14 | Forexive: 30% Off All Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/forexive/forexive-30-off-all-challenges-new-chapter/) |
