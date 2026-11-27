@@ -9,8 +9,8 @@ As of November 2026, the verified Forexive discount code is WHCTXQHRIG — 30% O
 - Code: WHCTXQHRIG
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-24
-- Trustpilot: [3.8/5 (119 reviews)](https://www.trustpilot.com/review/forexive.com)
+- Last deal published: 2026-11-26
+- Trustpilot: [3.8/5 (121 reviews)](https://www.trustpilot.com/review/forexive.com)
 - GitHub repository: [Forexive Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/forexive-deals)
 - Activate: [Activate Forexive Discount Code](https://propfirmdiscount.com/go/forexive)
 - Firm page: [Forexive Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/forexive/)
